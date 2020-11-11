@@ -1,0 +1,5 @@
+com\schedule\jobs\springscheduler\DemojobFixedCRON.class
+com\schedule\jobs\springscheduler\DemoSpringSchedulerJob.class
+com\schedule\jobs\JobsApplication.class
+com\schedule\jobs\springscheduler\DemoJobFixedDelay.class
+com\schedule\jobs\springscheduler\DemoJobFixedRate.class
